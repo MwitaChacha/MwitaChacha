@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chacha
-- I’m interested in wbe development
+- I’m interested in web development
 - I’m currently learning React
 
 
