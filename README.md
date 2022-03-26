@@ -1,6 +1,9 @@
-- 👋 Hi, I’m Chacha
-- I’m interested in web development
-- I’m currently learning React
+- 👋 Hi, I’m Chacha. A Software Developer based in Nairobi, Kenya.
+- I love writing code and turning, once that were ideas into great working pieces of software to provide solutions.
+- The process of designing applications and software from the ground up is one that I am fond of. Be it creating wireframes, designing mockups in Figma or actually writing the code. 
+- The following are my skills and stacks:
+- https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green
+
 
 
 <!---
