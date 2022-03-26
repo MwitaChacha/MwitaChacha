@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Chacha. A Software Developer based in Nairobi, Kenya.
+- 👋 ##3Hi, I’m Chacha. A Software Developer based in Nairobi, Kenya.
 - I love writing code and turning, once that were ideas into great working pieces of software to provide solutions.
 - The process of designing applications and software from the ground up is one that I am fond of. Be it creating wireframes, designing mockups in Figma and actually writing the code. 
 - The following are my skills and stacks:
