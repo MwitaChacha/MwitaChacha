@@ -8,7 +8,7 @@ The following are my skills and stacks
 
 ### Let's Connect
 
-<a href="https://www.linkedin.com/in/jonathan-chacha-19b154206/" target="_blank"><img height="32" width="32" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536569.png?token=exp=1648305298~hmac=89c334e31bec68d922a24103ed464ab2"></a> <a href="https://twitter.com/Chacha1kanobi" target="_blank"><img  height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/25/25347.png"></a> <a href="mailto:jonahhchacha@gmail.com" target="_blank"><img  height="32" width="32" src="https://cdn-icons.flaticon.com/png/512/3178/premium/3178158.png?token=exp=1648305443~hmac=86ed7dc3eab2434681ad450200f48cbb"></a>
+<a href="https://www.linkedin.com/in/jonathan-chacha-19b154206/" target="_blank"><img height="32" width="32" src="https://cdn-icons.flaticon.com/png/512/3669/premium/3669739.png?token=exp=1648461259~hmac=c02d653f87a89f31a3b1d2379b8e5a76"></a> <a href="https://twitter.com/Chacha1kanobi" target="_blank"><img  height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/25/25347.png"></a> <a href="mailto:jonahhchacha@gmail.com" target="_blank"><img  height="32" width="32" src="https://cdn-icons.flaticon.com/png/512/3178/premium/3178158.png?token=exp=1648305443~hmac=86ed7dc3eab2434681ad450200f48cbb"></a>
 
 <!---
 MwitaChacha/MwitaChacha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
